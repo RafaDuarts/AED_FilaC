@@ -1,1 +1,1 @@
-Arquivo sobre fila com alocação dinâmica.
+File over queue with dynamic allocation.
