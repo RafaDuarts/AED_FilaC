@@ -1,0 +1,1 @@
+Arquivo sobre fila com alocação dinâmica.
